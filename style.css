@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
+body {
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+
+header {
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+}
+h3 {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: center;
+}
+
+.top {
+    text-align: center;
+    
+}
+
+
+
+.watch_container {
+    border-color: #FDEFA6;
+    border: solid;
+    border-width: 2px;
+    background-color: #1A1818;
+}
